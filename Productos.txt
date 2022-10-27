@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "pelota de tenis de mesa",
+    "price": 40,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpEQuTlv3-5CGXJMYCHGZdqOjHiqoCVnlAbMFLU3wqDA&s"
+  },
+  {
+    "titulo": "Pelota de tenis",
+    "price": 400,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Closeup_of_a_tennis_ball_%282%29.jpg/220px-Closeup_of_a_tennis_ball_%282%29.jpg",
+    "id": 2
+  },
+  {
+    "titulo": "Pelota de football",
+    "price": 2000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_814748-MLA47977674367_102021-F.webp",
+    "id": 3
+  }
+]
